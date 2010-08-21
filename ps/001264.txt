@@ -1,0 +1,12 @@
+HD: Equip paint roller.
+###
+083b6c8c6c
+###
+1225255502
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1051.gif
+###
+You pick up the PAINT ROLLER and the PAINT BUCKET.
+###
+001265
+X

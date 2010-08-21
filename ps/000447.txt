@@ -1,0 +1,14 @@
+PS: Use hammer to pry boards off door in safe room.
+###
+797b6c1e5e
+###
+1208025762
+###
+http://www.mspaintadventures.com/advimgs/ps/ps229.gif
+###
+You pry at the boards with the HAMMER.
+
+But before you can pry any off, the door swings open, away from the boards. It seems the boards never actually served to obstruct the door in the first place.
+###
+000448
+X

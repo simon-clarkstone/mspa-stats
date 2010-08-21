@@ -1,0 +1,16 @@
+PS: Add skulls to inventory.
+###
+75df7234cb
+###
+1219115135
+###
+http://www.mspaintadventures.com/advimgs/ps/ps642.gif
+###
+You pick up the SKULL, along with the other stuff lying around including the TOMMY GUN and the SKYLIGHT, because hey you might as well.
+
+You load the TOMMY GUN to capacity using the MUNITIONS BAG.
+
+You plug the SKYLIGHT into the BATTERY PACK.
+###
+000855
+X

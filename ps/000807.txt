@@ -1,0 +1,12 @@
+AD: Activate punch card machine.
+###
+fc9fe9884d
+###
+1217444187
+###
+http://www.mspaintadventures.com/advimgs/ps/ps595.gif
+###
+It dispenses a PUNCH CARD.
+###
+000808
+X

@@ -1,0 +1,12 @@
+AD: Examine rope.
+###
+41bc370123
+###
+1207343864
+###
+http://www.mspaintadventures.com/advimgs/ps/ps171.gif
+###
+You pick up the ROPE.
+###
+000390
+X

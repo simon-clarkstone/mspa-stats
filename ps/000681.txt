@@ -1,0 +1,14 @@
+AD: Push button.
+###
+f1cd6a6017
+###
+1214078602
+###
+http://www.mspaintadventures.com/advimgs/ps/ps464.gif
+###
+It releases the lock on the hatch. A vertical column extends upward. But it bumps into the ceiling before the column's entrance can be fully revealed.
+
+There is not enough space for it to extend into.
+###
+000682
+X

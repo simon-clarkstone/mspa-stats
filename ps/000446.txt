@@ -1,0 +1,12 @@
+AD: Check if the key works on the lock in the safe room.
+###
+4ebe52288a
+###
+1208025722
+###
+http://www.mspaintadventures.com/advimgs/ps/ps228.gif
+###
+You unlock the lock and open the door. Powerful fumes waft into your nostrils.
+###
+000447
+X

@@ -1,0 +1,14 @@
+Use the key on the door and open it.
+###
+608ec3d356
+###
+1205270988
+###
+http://www.mspaintadventures.com/advimgs/ps/ps023.gif
+###
+You re-equip your GUN so you can blow a hole in the lock to open the door.
+
+It looks like your GUN only has 1 BULLET(S) left. Are you sure you want to use it in this way? You might need it in case you have to off yourself later. 
+###
+000242
+X

@@ -1,0 +1,14 @@
+Look around room.
+###
+8dde4a2e0f
+###
+1208203482
+###
+http://www.mspaintadventures.com/advimgs/ps/ps231.gif
+###
+You examine your surroundings. Your door is blocked by something. Judging from the marks on the door, it looks like you attempted to open it with some sort of weapon. 
+
+There is a HAIRPIN on the floor.
+###
+000450
+X

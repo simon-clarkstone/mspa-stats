@@ -1,0 +1,16 @@
+Place false window in inventory.
+###
+19a8f704ad
+###
+1205554440
+###
+http://www.mspaintadventures.com/advimgs/ps/ps054.gif
+###
+The false window is way too big to carry around, stupid!
+
+But you did find a CURTAIN ROD just under the top edge. You never did get around to putting up drapes. Then again, it never did make much sense to cover up the only source of light in your office.
+
+You put the CURTAIN ROD in your inventory.
+###
+000273
+X

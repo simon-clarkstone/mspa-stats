@@ -1,0 +1,14 @@
+AD: Close door.
+###
+3d80abac7c
+###
+1235189747
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1506.gif
+###
+You close the door with little effort.
+
+Death lodges it shut with the sturdy instrument.
+###
+001720
+X

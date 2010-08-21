@@ -1,0 +1,12 @@
+AD: Use bust stand as a step to access the safe.
+###
+b8c756e396
+###
+1207510523
+###
+http://www.mspaintadventures.com/advimgs/ps/ps183.gif
+###
+By stacking two bust stands, you can easily reach the safe opening.
+###
+000402
+X

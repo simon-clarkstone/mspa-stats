@@ -1,0 +1,14 @@
+AD: Go through door's window and throw the switch.
+###
+f449ef84e8
+###
+1212968557
+###
+http://www.mspaintadventures.com/advimgs/ps/ps405.gif
+###
+You enter the small room and throw the switch. 
+
+The room starts to travel upward, like an elevator.
+###
+000623
+X

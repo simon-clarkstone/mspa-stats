@@ -1,0 +1,12 @@
+Use numbers from sheet of paper to open the safe.
+###
+a2f5261c76
+###
+1205554467
+###
+http://www.mspaintadventures.com/advimgs/ps/ps055.gif
+###
+You examine the heavy-duty safe. You must be keeping some serious loot in here.
+###
+000274
+X

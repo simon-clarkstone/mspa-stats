@@ -1,0 +1,12 @@
+MK: Gather up all the ship portholes.
+###
+ef8b6296d7
+###
+1222577472
+###
+http://www.mspaintadventures.com/advimgs/ps/ps864.gif
+###
+You pry the port and starboard-side SHIP PORTHOLES from the walls. It seems their batteries are now fully-charged and they may operate free from their outlets.
+###
+001078
+X

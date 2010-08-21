@@ -1,0 +1,12 @@
+PI: Remove oboe blocking doors at bottom of stairs.
+###
+e6f287150b
+###
+1211259233
+###
+http://www.mspaintadventures.com/advimgs/ps/ps350.gif
+###
+Your VIM is simply not high enough to dislodge the instrument. It's really stuck!
+###
+000569
+X

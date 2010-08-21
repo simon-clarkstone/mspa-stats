@@ -1,0 +1,18 @@
+HD: Search room for missing phone parts.
+###
+50e9c8be71
+###
+1214078373
+###
+http://www.mspaintadventures.com/advimgs/ps/ps457.gif
+###
+They are nowhere to be found in the room. 
+
+Facing EAST, you see your large bedroom window, of course providing its view of the breathtaking urban mural across the street. 
+
+On the small table is a locked MUSIC BOX, the key for which you have misplaced.
+
+You really have no idea what to do. You're simply too hysterical to think straight.
+###
+000675
+X

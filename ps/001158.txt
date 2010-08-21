@@ -1,0 +1,12 @@
+NB: Add stripper container to inventory.
+###
+97f46c3bcd
+###
+1223748246
+###
+http://www.mspaintadventures.com/advimgs/ps/ps945.gif
+###
+You equip the STRIPPER.
+###
+001159
+X

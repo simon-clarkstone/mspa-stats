@@ -1,0 +1,12 @@
+PI: Navigate with sextant.
+###
+0f0d80f06c
+###
+1235787841
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1535.gif
+###
+You take the CHRONOSCOPE from the WHEEL again, and attach it to your trusty SEXTANT.
+###
+001750
+X

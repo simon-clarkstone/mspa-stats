@@ -1,0 +1,14 @@
+NB + HD: Go down stairs through eye door.
+###
+a37a807492
+###
+1225080399
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1033.gif
+###
+These are the customer entrances for the private booths. All of these doors are locked, occupied by various distinguished gentlemen.
+
+There are switches on the ceiling. Only someone with an extraordinary TALLNESS attribute can operate them.
+###
+001247
+X

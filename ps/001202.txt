@@ -1,0 +1,14 @@
+NB: Loosen drawstrings on corset.
+###
+af5c68627c
+###
+1224462034
+###
+http://www.mspaintadventures.com/advimgs/ps/ps989.gif
+###
+You slacken the strings on the ASPECT CORSET, which was way too tight anyway.
+
+Your aspect ratio shortens and widens back to normalcy.
+###
+001203
+X

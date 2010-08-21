@@ -1,0 +1,16 @@
+NB: Search room to make sure it contains no Fancy Santas.
+###
+71199f0bdc
+###
+1215460333
+###
+http://www.mspaintadventures.com/advimgs/ps/ps508.gif
+###
+You are quite sure there are no Fancy Santas to be found in your room, but just to be absolutely certain, you look around.
+
+...
+
+Wait a minute... is that...?
+###
+000726
+X

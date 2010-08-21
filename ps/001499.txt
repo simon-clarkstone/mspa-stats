@@ -1,0 +1,16 @@
+HD: Get brush and palette.
+###
+a5176bfc04
+###
+1229750828
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1286.gif
+###
+You acquire the SKELETON BRUSH and the PALETTE.
+
+You put your SCALE CORSET back on while you're at it. You've grown fond of its snug embrace.
+
+You hear a loud racket from the other room. You think it's probably a good idea just to leave it be.
+###
+001500
+X

@@ -1,0 +1,14 @@
+Problem Sleuth
+###
+dd01541adb
+###
+1205126350
+###
+http://www.mspaintadventures.com/advimgs/ps/ps001.gif
+###
+You are one of the top Problem Sleuths in the city. Solicitations for your service are numerous in quantity. Compensation, adequate. It is a balmy summer evening. You are feeling particularly hard boiled tonight. 
+
+What will you do?
+###
+000220
+X

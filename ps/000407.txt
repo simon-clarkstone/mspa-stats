@@ -1,0 +1,16 @@
+Open door lock with tommygun.
+###
+8e65b063f5
+###
+1207596629
+###
+http://www.mspaintadventures.com/advimgs/ps/ps189.gif
+###
+You throw your RING OF KEYS at the lock. They jangle uselessly against the door.
+
+You're not sure what you expected was going to happen. You sure can be dumb sometimes.
+
+The RING OF KEYS ammo is down to 90%.
+###
+000408
+X

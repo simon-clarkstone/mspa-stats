@@ -1,0 +1,16 @@
+AD: Use rope to escape office through window.
+###
+33d5f61ebb
+###
+1207596693
+###
+http://www.mspaintadventures.com/advimgs/ps/ps191.gif
+###
+You won't need to use the ROPE to escape through the window. There is a fire escape stairway.
+
+You climb on to the generator, out the window, and on to the stairs.
+
+The generator is chugging away. It is fueled by potent grain alchohol. Its fuel gauge is at 80%.
+###
+000410
+X

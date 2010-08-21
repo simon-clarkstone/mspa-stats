@@ -1,0 +1,14 @@
+AD: Dig up stump.
+###
+6e9eb0914c
+###
+1231310951
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1366.gif
+###
+For some reason, using your last ounce of strength, you are compelled to dig up the stump. You find a GUN buried beneath.
+
+There is only one thing left for you to do.
+###
+001580
+X

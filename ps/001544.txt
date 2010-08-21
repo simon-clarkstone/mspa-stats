@@ -1,0 +1,14 @@
+FMK: Tighten brassier making you small enough to exit door.
+###
+5ccd93618a
+###
+1230584545
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1331.gif
+###
+You pull on the VOLUME DRAWSTRINGS, reducing your volume by a factor of 10. You should be able to leave this blasted pantry now.
+
+The floor beneath you creaks under your highly concentrated weight...
+###
+001545
+X

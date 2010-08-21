@@ -1,0 +1,12 @@
+PI: Add skylight to inventory.
+###
+cc0228058b
+###
+1209080557
+###
+http://www.mspaintadventures.com/advimgs/ps/ps272.gif
+###
+You take the SKYLIGHT.
+###
+000491
+X

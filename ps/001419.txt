@@ -1,0 +1,14 @@
+NB: Plug in fan.
+###
+5f793a18fa
+###
+1227922984
+###
+http://www.mspaintadventures.com/advimgs/ps/ps1206.gif
+###
+You have successfully plugged in the FAN!
+
+However, the OUTLET is not receiving power. The line runs from the CHIMNEY, controlled by a switch in the dollhouse's ATTIC.
+###
+001420
+X
