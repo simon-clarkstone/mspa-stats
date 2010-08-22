@@ -21,7 +21,8 @@ fileContents = filenames >>= sort |> filter isMspa |> mapM load
 
 getDate = lines |> (!! 4) |> read :: String -> Integer
 close = uncurry (-) |> abs |> (< 600)
-processDates = bi zip id tail |> cluster close |> map (map snd)
+tail' = (++ [undefined]) |> tail
+processDates = bi zip id tail' |> cluster close |> map (map fst)
 processFiles = map getDate |> processDates
 
 
