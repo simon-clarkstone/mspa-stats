@@ -10,9 +10,11 @@ import qualified Data.ByteString.Char8 as BS
 bi f g h x = f (g x) (h x)
 
 cluster :: (a -> Bool) -> [a] -> [[a]]
-cluster p = foldr clus1 [] where
-  clus1 x' (c:cs) | p x' = (x':c):cs
-  clus1 x' css           = [x']:css
+cluster p = foldr clus1 ([],[]) |> uncurry (:) where
+  clus1 x rec = (c', cs') where
+    (c', cs') = case rec of
+      (c, cs) | p x  -> (x:c, cs)
+              | True -> ([], (x:c):cs)
 
 filenames = liftM (map ("ps/" ++)) $ getDirectoryContents "ps"
 isMspa = reverse |> take 4 |> reverse |> (== ".txt")
@@ -21,8 +23,7 @@ fileContents = filenames >>= sort |> filter isMspa |> mapM load
 
 getDate = lines |> (!! 4) |> read :: String -> Integer
 close = uncurry (-) |> abs |> (< 600)
-tail' = (++ [undefined]) |> tail
-processDates = bi zip id tail' |> cluster close |> map (map fst)
+processDates = bi zip (0:) id |> cluster close |> map (map snd)
 processFiles = map getDate |> processDates
 
 
